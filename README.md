@@ -1,2 +1,2 @@
 # analyticsBlog
-This repository contains analytics blog posta
+This repository contains analytics blog posts
